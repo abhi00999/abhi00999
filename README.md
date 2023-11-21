@@ -1,6 +1,6 @@
 <p>
  <i>
-    I am a recent graduate from IIT BHU Varanasi, and I'm currently leveraging my passion for software development in my role as a front-end developer. My expertise includes C++, along with proficiency in web development technologies such as HTML, CSS, JavaScript, and React.<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25>
+    I am a recent graduate from IIT BHU Varanasi, and currently leveraging my passion for software development in my role as a front-end developer. My expertise includes C++, along with proficiency in web development technologies such as HTML, CSS, JavaScript, and React.<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25>
  </i>
 </p>
 
