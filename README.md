@@ -13,7 +13,7 @@
 - 👋 Hi, I’m Abhijeet
 - 🎓 Currently working as an SDE at a fintech startup.
 - 👨‍ I like to solve real-life problems with technology.
-- 📧 Reach me on <a href="https://www.linkedin.com/in/pranjal-bisht-95a555220/"> linkedin </a> or Mail me at <a href="bishtpranjal27@gmail.com"> bishtpranjal27@gmail.com </a> for Job oppurtunities ( SDE, ML, DS roles ) or to exchange knowledge on tech & stuffs.
+- 📧 Reach me on <a href="https://www.linkedin.com/in/abhi0077/"> linkedin </a> or Mail me at <a href="abhijeetsisodiya97@gmail.com"> abhijeetsisodiya97@gmail.com </a> for Job oppurtunities ( SDE, ML, DS roles ) or to exchange knowledge on tech & stuffs.
 
 
 ---
