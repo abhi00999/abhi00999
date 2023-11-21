@@ -60,7 +60,7 @@ You can click the Preview link to take a look at your changes.
 <div align = "center">
 
 <a href="https://github.com/abhi00999" title="Redirect's to Abhijeet's Github">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Pranjal-bisht&show_icons=true&theme=radical&count_private=true" /></a>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=abhi00999&show_icons=true&theme=radical&count_private=true" /></a>
 
 <a href="https://github.com/abhi00999">
 <img width="49%" title="Redirect's to Abhijeet's Github" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi00999&theme=radical" /></a>
