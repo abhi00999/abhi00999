@@ -31,7 +31,6 @@ Technologies:
 <code><img height="40" src="https://img.shields.io/badge/node.js-%234ea94b.svg?&style=for-the-badge&logo=node.js&logoColor=white" /></code>
 <code><img height="40" src="https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" /></code>
 <code><img height="40" src="https://img.shields.io/badge/git-%2320232a.svg?&style=for-the-badge&logo=git&logoColor=ff4d4d" /></code>
-<code><img height="40" src="https://avatars.githubusercontent.com/u/15658638?s=280&v=4" /></code>
  
 </div>
  
